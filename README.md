@@ -65,15 +65,7 @@ The resulting stylized image is displayed using Matplotlib and saved locally usi
 
 - Provide downloadable output with quality control options
 
-Output
-Before:
-
-Content Image:                                                                                      Style Image: 
-![Image](https://github.com/user-attachments/assets/b1ae7e91-7213-417d-bb52-dbf8ba7e62b0)
-
-
-
-After:
+## Output
 
 Stylized Image: generated_img.jpg
-(Saved to local directory after generation)
+<img width="796" height="677" alt="Image" src="https://github.com/user-attachments/assets/afc7678f-7247-452e-8c67-9ed55f8dbd3a" />
