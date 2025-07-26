@@ -68,9 +68,10 @@ The resulting stylized image is displayed using Matplotlib and saved locally usi
 Output
 Before:
 
-Content Image: img.jpg
+Content Image:                                                                                      Style Image: 
+![Image](https://github.com/user-attachments/assets/b1ae7e91-7213-417d-bb52-dbf8ba7e62b0)
 
-Style Image: monet.jpeg
+
 
 After:
 
