@@ -67,5 +67,6 @@ The resulting stylized image is displayed using Matplotlib and saved locally usi
 
 ## Output
 
-Stylized Image: generated_img.jpg
+generated image:
+
 <img width="796" height="677" alt="Image" src="https://github.com/user-attachments/assets/afc7678f-7247-452e-8c67-9ed55f8dbd3a" />
