@@ -1,19 +1,5 @@
 ## NEURAL STYLE TRANSFER
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: Keerthi K
-
-*INTERN ID*: CT06DG2158
-
-*DOMAIN*: Artificial Intelligence
-
-*DURATION*: 6 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
----
-
 ## Project Overview
 
 This project implements a Neural Style Transfer tool that blends the content of one image with the artistic style of another using a pre-trained deep learning model from TensorFlow Hub. Built on the concept of convolutional neural networks, this tool enables creative image generation by applying artistic transformations to photographs.
